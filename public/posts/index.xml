@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jalex Stark</title>
+    <link>http://www.jalexstark.com/posts/</link>
+    <description>Recent content in Posts on Jalex Stark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2020 10:56:56 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.jalexstark.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up hugo &#43; netlify</title>
+      <link>http://www.jalexstark.com/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Sep 2020 10:56:56 -0400</pubDate>
+      
+      <guid>http://www.jalexstark.com/posts/my-first-post/</guid>
+      <description>I guess I can use the contents of this thread https://unnamedchouse.zulipchat.com/#narrow/stream/253749-Jalex&#39;s-internal.20blog/topic/personal.20website/near/210668807 to back out what the steps of discovery were.</description>
+    </item>
+    
+  </channel>
+</rss>

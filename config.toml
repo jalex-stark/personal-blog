@@ -1,0 +1,4 @@
+baseURL = "http://www.jalexstark.com"
+languageCode = "en-us"
+title = "Jalex Stark"
+theme = "ananke"
